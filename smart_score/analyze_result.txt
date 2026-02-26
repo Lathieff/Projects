@@ -1,0 +1,38 @@
+﻿Analyzing smart_score...                                        
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\HomeScreen\activedevice_screen.dart:136:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\HomeScreen\activedevice_screen.dart:149:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\HomeScreen\activedevice_screen.dart:175:47 - deprecated_member_use
+   info - Don't invoke 'print' in production code - lib\HomeScreen\home_screen.dart:361:23 - avoid_print
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\HomeScreen\language_screen.dart:216:15 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\HomeScreen\language_screen.dart:217:15 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\HomeScreen\notification_alert_screen.dart:149:33 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\HomeScreen\notification_alert_screen.dart:168:13 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\HomeScreen\profile_screen.dart:158:47 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\HomeScreen\report_screen.dart:124:21 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\HomeScreen\twofactor_screen.dart:7:9 - use_super_parameters
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\HomeScreen\twofactor_screen.dart:163:27 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\OnboardingScreen\company_branch_details_screen.dart:91:21 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\OnboardingScreen\company_branch_details_screen.dart:93:21 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\OnboardingScreen\company_branch_details_screen.dart:99:21 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\OnboardingScreen\company_branch_details_screen.dart:101:21 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\OnboardingScreen\my_profile_business_screen.dart:101:31 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\OnboardingScreen\my_profile_business_screen.dart:102:31 - deprecated_member_use
+   info - 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre - lib\OnboardingScreen\my_profile_business_screen.dart:109:31 - deprecated_member_use
+   info - 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre - lib\OnboardingScreen\my_profile_business_screen.dart:110:31 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\OnboardingScreen\otp_screen.dart:251:48 - use_build_context_synchronously
+   info - Unnecessary use of multiple underscores - lib\OnboardingScreen\otp_screen.dart:255:56 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\OnboardingScreen\otp_screen.dart:255:60 - unnecessary_underscores
+   info - The constant name 'company_logo' isn't a lowerCamelCase identifier - lib\app_image.dart:3:23 - constant_identifier_names
+   info - The constant name 'score_check' isn't a lowerCamelCase identifier - lib\app_image.dart:4:23 - constant_identifier_names
+   info - The constant name 'score_check2' isn't a lowerCamelCase identifier - lib\app_image.dart:5:23 - constant_identifier_names
+   info - The constant name 'score_check3' isn't a lowerCamelCase identifier - lib\app_image.dart:6:23 - constant_identifier_names
+   info - The constant name 'home_banner' isn't a lowerCamelCase identifier - lib\app_image.dart:8:23 - constant_identifier_names
+   info - The constant name 'micro_score' isn't a lowerCamelCase identifier - lib\app_image.dart:9:23 - constant_identifier_names
+   info - The constant name 'chit_score' isn't a lowerCamelCase identifier - lib\app_image.dart:10:23 - constant_identifier_names
+   info - The constant name 'home_calander' isn't a lowerCamelCase identifier - lib\app_image.dart:23:23 - constant_identifier_names
+   info - The constant name 'two_factor' isn't a lowerCamelCase identifier - lib\app_image.dart:24:23 - constant_identifier_names
+   info - 'Share' is deprecated and shouldn't be used. Use SharePlus instead - lib\enquiry\credit_score_screen.dart:370:31 - deprecated_member_use
+   info - 'share' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead - lib\enquiry\credit_score_screen.dart:370:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\custom_bottom_nav.dart:28:35 - deprecated_member_use
+
