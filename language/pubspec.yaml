@@ -1,0 +1,34 @@
+name: flutter_mlkit_translate
+description: On-device translation demo using Google ML Kit — no internet needed.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ── Core: on-device translation, 50+ languages, works offline ────────────────
+  google_mlkit_translation: ^0.13.0
+
+  # ── State management ──────────────────────────────────────────────────────────
+  provider: ^6.1.2
+
+  # ── Mic / voice input ─────────────────────────────────────────────────────────
+  speech_to_text: ^7.0.0
+
+  # ── Runtime permissions ───────────────────────────────────────────────────────
+  permission_handler: ^11.3.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
